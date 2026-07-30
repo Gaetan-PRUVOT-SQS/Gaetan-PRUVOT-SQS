@@ -41,7 +41,7 @@ Focus : code clair, cas limites, fiabilité.
 | Projet | Description | Stack |
 |--------|-------------|--------|
 | **[Kasa](https://github.com/Gaetan-PRUVOT-SQS/Kasa)** | Location entre particuliers (OpenClassrooms) | React, Express |
-| **[Marc-Aurele](https://github.com/Gaetan-PRUVOT-SQS/Marc-Aurele)** | Page statique — design liquid glass, canvas animé | HTML/CSS/JS |
+| **[Marc-Aurele](https://github.com/Gaetan-PRUVOT-SQS/Marc-Aurele)** | Page statique design liquid glass, canvas animé | HTML/CSS/JS |
 
 ---
 
