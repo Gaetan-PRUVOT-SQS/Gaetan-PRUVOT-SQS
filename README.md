@@ -1,6 +1,6 @@
 # Gaetan PRUVOT
 
-**Développeur généraliste** — systèmes, automatisation, web et applications mobiles.  
+**Développeur généraliste**  systèmes, automatisation, web et applications mobiles.  
 Focus : code clair, cas limites, fiabilité.
 
 [SigmaQuantSystems](http://www.sigmaquantsystems.fr) · France
