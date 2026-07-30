@@ -1,11 +1,9 @@
 # Gaetan PRUVOT
 
-**Développeur généraliste**  systèmes, automatisation, web et applications mobiles.  
+**Développeur généraliste** — systèmes, automatisation, web et applications mobiles.  
 Focus : code clair, cas limites, fiabilité.
 
-[SigmaQuantSystems](http://www.sigmaquantsystems.fr) · France
-
----
+France
 
 ## Stack
 
@@ -15,8 +13,6 @@ Focus : code clair, cas limites, fiabilité.
 | **Web** | JavaScript, React, HTML/CSS, Node/Express |
 | **Data / quant** | Python, pipelines, dashboards, ingénierie financière |
 | **Systèmes** | Automatisation, scripts, outils robustes |
-
----
 
 ## Projets mis en avant
 
@@ -43,23 +39,16 @@ Focus : code clair, cas limites, fiabilité.
 | **[Kasa](https://github.com/Gaetan-PRUVOT-SQS/Kasa)** | Location entre particuliers (OpenClassrooms) | React, Express |
 | **[Marc-Aurele](https://github.com/Gaetan-PRUVOT-SQS/Marc-Aurele)** | Page statique design liquid glass, canvas animé | HTML/CSS/JS |
 
----
-
 ## Ce que je cherche à bien faire
 
-- Applications **utilisables hors ligne** quand c’est pertinent  
-- Interfaces simples, lisibles, sans sur-ingénierie  
-- Pipelines et outils **testables** et documentés  
-- Projets qu’on peut cloner et faire tourner sans friction  
-
----
+- Applications **utilisables hors ligne** quand c’est pertinent
+- Interfaces simples, lisibles, sans sur-ingénierie
+- Pipelines et outils **testables** et documentés
+- Projets qu’on peut cloner et faire tourner sans friction
 
 ## Contact
 
-- GitHub : [@Gaetan-PRUVOT-SQS](https://github.com/Gaetan-PRUVOT-SQS)  
-- Site : [sigmaquantsystems.fr](http://www.sigmaquantsystems.fr)  
-- Entreprise : SigmaQuantSystems  
+- GitHub : [@Gaetan-PRUVOT-SQS](https://github.com/Gaetan-PRUVOT-SQS)
+- Entreprise : SigmaQuantSystems
 
----
-
-<sub>Repos : France · ouvert aux échanges techniques et collabs sérieuses.</sub>
+<sub>France · ouvert aux échanges techniques et collabs sérieuses.</sub>
