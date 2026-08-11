@@ -3,52 +3,27 @@
 **Développeur généraliste** — systèmes, automatisation, web et applications mobiles.  
 Focus : code clair, cas limites, fiabilité.
 
-France
+France · [SigmaQuantSystems](https://github.com/Gaetan-PRUVOT-SQS)
+
+## Projets phares
+
+| Projet | Rôle |
+|--------|------|
+| [**Taskora**](https://github.com/Gaetan-PRUVOT-SQS/Taskora) | Kanban open source self-host (React, Fastify, PostgreSQL, Docker) |
+| [**StayStrong**](https://github.com/Gaetan-PRUVOT-SQS/StayStrong) | App Android offline — circuit poids de corps (Kotlin / Compose) |
+| [**Local-LLM-App**](https://github.com/Gaetan-PRUVOT-SQS/Local-LLM-App) | Chat Android 100 % local (Gemma multimodal) |
+| [**Vida.app**](https://github.com/Gaetan-PRUVOT-SQS/Vida.app) | Site produit — suivi de cycle & parcours PMA |
+| [**Kasa**](https://github.com/Gaetan-PRUVOT-SQS/Kasa) | Location entre particuliers — React + Express |
+| [**MRRM**](https://github.com/Gaetan-PRUVOT-SQS/Macro-Risk-Regime-Monitor-MRRM) | Dashboard de stress macro-financier (Python) |
+
+## Portfolio web
+
+[portfolio-gp-sqs.vercel.app](https://portfolio-gp-sqs.vercel.app)
 
 ## Stack
 
-| Domaine | Outils |
-|--------|--------|
-| **Mobile** | Kotlin, Jetpack Compose, Android (on-device / offline) |
-| **Web** | JavaScript, React, HTML/CSS, Node/Express |
-| **Data / quant** | Python, pipelines, dashboards, ingénierie financière |
-| **Systèmes** | Automatisation, scripts, outils robustes |
+Kotlin · Jetpack Compose · React · Node.js · Python · Docker · PostgreSQL
 
-## Projets mis en avant
+## Quant
 
-### Applications
-
-| Projet | Description | Stack |
-|--------|-------------|--------|
-| **[StayStrong](https://github.com/Gaetan-PRUVOT-SQS/StayStrong)** | App Android hors ligne : circuit poids de corps (5 exercices), niveaux, agenda, articles, export JSON | Kotlin, Compose |
-| **[Local-LLM-App](https://github.com/Gaetan-PRUVOT-SQS/Local-LLM-App)** | Chat Android 100 % offline avec modèle multimodal embarqué (texte, image, audio) | Kotlin, LiteRT-LM |
-| **[Vida.app](https://github.com/Gaetan-PRUVOT-SQS/Vida.app)** | Suivi du cycle et accompagnement des parcours PMA | HTML/CSS/JS |
-
-### Quant & data
-
-| Projet | Description | Stack |
-|--------|-------------|--------|
-| **[sigmaquant-copilot](https://github.com/Gaetan-PRUVOT-SQS/sigmaquant-copilot)** | Lab : le LLM raisonne, le moteur déterministe calcule | Python |
-| **[Macro-Risk-Regime-Monitor-MRRM](https://github.com/Gaetan-PRUVOT-SQS/Macro-Risk-Regime-Monitor-MRRM)** | Dashboard de stress macro et régimes de marché (PCA dynamique) | Python |
-| **[Financial-Engineering](https://github.com/Gaetan-PRUVOT-SQS/Financial-Engineering)** | Boîte à outils dérivés, pricing, optimisation de portefeuille | Quant / Python |
-
-### Web & formation
-
-| Projet | Description | Stack |
-|--------|-------------|--------|
-| **[Kasa](https://github.com/Gaetan-PRUVOT-SQS/Kasa)** | Location entre particuliers (OpenClassrooms) | React, Express |
-| **[Marc-Aurele](https://github.com/Gaetan-PRUVOT-SQS/Marc-Aurele)** | Page statique design liquid glass, canvas animé | HTML/CSS/JS |
-
-## Ce que je cherche à bien faire
-
-- Applications **utilisables hors ligne** quand c’est pertinent
-- Interfaces simples, lisibles, sans sur-ingénierie
-- Pipelines et outils **testables** et documentés
-- Projets qu’on peut cloner et faire tourner sans friction
-
-## Contact
-
-- GitHub : [@Gaetan-PRUVOT-SQS](https://github.com/Gaetan-PRUVOT-SQS)
-- Entreprise : SigmaQuantSystems
-
-<sub>France · ouvert aux échanges techniques et collabs sérieuses.</sub>
+Recherche quantitative & pipelines : compte [Gptradeinvest](https://github.com/Gptradeinvest)
