@@ -17,11 +17,12 @@ Développeur freelance basé à Lyon (SigmaQuantSystems). Je conçois des applic
 | Projet | Description | Stack |
 |---|---|---|
 | [Taskora](https://github.com/Gaetan-PRUVOT-SQS/Taskora) | Kanban auto-hébergé, avec une CI complète et des tests de bout en bout | React, Fastify, PostgreSQL, Docker |
+| [Kasa](https://github.com/Gaetan-PRUVOT-SQS/Kasa) | Location de logements entre particuliers, en TypeScript strict, avec 100 % de couverture de tests et une CI | React, TypeScript, Express |
 | [github-analytics](https://github.com/Gaetan-PRUVOT-SQS/github-analytics) | Tableau de bord d'activité GitHub, testé contre un faux GitHub local | Next.js |
 | [StayStrong](https://github.com/Gaetan-PRUVOT-SQS/StayStrong) | Application Android native | Kotlin, Jetpack Compose |
 | [MRRM](https://github.com/Gaetan-PRUVOT-SQS/Macro-Risk-Regime-Monitor-MRRM) | Suivi des régimes de risque macroéconomique | Python, pytest |
 | [i686-elf-gcc](https://github.com/Gaetan-PRUVOT-SQS/i686-elf-gcc) | Cross-compilateurs GCC prêts à l'emploi, publiés par la CI | C, GCC, QEMU |
-| [Vida](https://vidapma.fr) | Application mobile de suivi de cycle et de parcours PMA, hors ligne et sans compte | React Native, SQLite |
+| [Vida](https://vidapma.fr) | Application mobile de suivi de cycle et de parcours PMA. Le dépôt [Vida.app](https://github.com/Gaetan-PRUVOT-SQS/Vida.app) contient le site vitrine, le code de l'application reste privé | Site : HTML, CSS, JavaScript |
 
 ## Contact
 
