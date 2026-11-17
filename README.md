@@ -19,6 +19,7 @@ and mobile applications, ones that work offline and keep data under control.
 
 | Project | Description | Stack |
 |---|---|---|
+| [harnais-agentique](https://github.com/Gaetan-PRUVOT-SQS/harnais-agentique) | Agent harness: verified rules, guardrails executed as hooks, read-only subagents, a config verifier | Python, Bash |
 | [Taskora](https://github.com/Gaetan-PRUVOT-SQS/Taskora) | Self-hosted kanban boards, with a full CI and end-to-end tests | React, Fastify, PostgreSQL, Docker |
 | [Vida](https://vidapma.fr) | Mobile app for cycle tracking and fertility care. The [Vida.app](https://github.com/Gaetan-PRUVOT-SQS/Vida.app) repository holds the product site, the app code stays private | Site: HTML, CSS, JavaScript |
 | [Kasa](https://github.com/Gaetan-PRUVOT-SQS/Kasa) | Peer-to-peer housing rental in strict TypeScript, with 100% test coverage and a CI | React, TypeScript, Express |

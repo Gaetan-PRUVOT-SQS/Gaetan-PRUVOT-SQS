@@ -18,6 +18,7 @@ Développeur freelance basé à Lyon (SigmaQuantSystems). Je conçois des applic
 
 | Projet | Description | Stack |
 |---|---|---|
+| [harnais-agentique](https://github.com/Gaetan-PRUVOT-SQS/harnais-agentique) | Harnais agentique : règles vérifiées, garde-fous exécutés en hooks, sous-agents en lecture seule, verifier de la config | Python, Bash |
 | [Taskora](https://github.com/Gaetan-PRUVOT-SQS/Taskora) | Kanban auto-hébergé, avec une CI complète et des tests de bout en bout | React, Fastify, PostgreSQL, Docker |
 | [Vida](https://vidapma.fr) | Application mobile de suivi de cycle et de parcours PMA. Le dépôt [Vida.app](https://github.com/Gaetan-PRUVOT-SQS/Vida.app) contient le site vitrine, le code de l'application reste privé | Site : HTML, CSS, JavaScript |
 | [Kasa](https://github.com/Gaetan-PRUVOT-SQS/Kasa) | Location de logements entre particuliers, en TypeScript strict, avec 100 % de couverture de tests et une CI | React, TypeScript, Express |
