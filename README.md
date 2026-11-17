@@ -15,17 +15,23 @@ and mobile applications, ones that work offline and keep data under control.
 - Automated testing and continuous integration: unit tests, Cypress, Playwright, GitHub Actions
 - Application security: authentication, CSRF, cookies, secrets management
 
-## Projects
+## Featured projects
+
+**[Taskora](https://github.com/Gaetan-PRUVOT-SQS/Taskora)**: self-hosted open-source kanban boards. React, strict TypeScript, Fastify, PostgreSQL, Docker. Full test pipeline with a 90%+ line coverage gate enforced by CI.
+
+**[Vida](https://vidapma.fr)**: product website, live at vidapma.fr, for the Vida Android app for cycle tracking and fertility care journeys. The app keeps data local and needs no connection. The [Vida.app](https://github.com/Gaetan-PRUVOT-SQS/Vida.app) repository holds the site, the app code stays private.
+
+**[Kasa](https://github.com/Gaetan-PRUVOT-SQS/Kasa)**: peer-to-peer housing rental in strict TypeScript, with 100% test coverage, end-to-end tests and CI.
+
+**[i686-elf-gcc](https://github.com/Gaetan-PRUVOT-SQS/i686-elf-gcc)**: ready-to-use i686-elf and x86_64-elf GCC cross-compilers for OS development, built and released by CI, with QEMU check kernels.
+
+## Other projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [Taskora](https://github.com/Gaetan-PRUVOT-SQS/Taskora) | Self-hosted kanban boards, with a full CI and end-to-end tests | React, Fastify, PostgreSQL, Docker |
-| [Kasa](https://github.com/Gaetan-PRUVOT-SQS/Kasa) | Peer-to-peer housing rental in strict TypeScript, with 100% test coverage and a CI | React, TypeScript, Express |
+| [StayStrong](https://github.com/Gaetan-PRUVOT-SQS/StayStrong) | Offline Android bodyweight training app | Kotlin, Jetpack Compose |
 | [github-analytics](https://github.com/Gaetan-PRUVOT-SQS/github-analytics) | GitHub activity dashboard, tested against a local fake GitHub | Next.js |
-| [StayStrong](https://github.com/Gaetan-PRUVOT-SQS/StayStrong) | Native Android app | Kotlin, Jetpack Compose |
 | [MRRM](https://github.com/Gaetan-PRUVOT-SQS/Macro-Risk-Regime-Monitor-MRRM) | Macroeconomic risk regime monitoring | Python, pytest |
-| [i686-elf-gcc](https://github.com/Gaetan-PRUVOT-SQS/i686-elf-gcc) | Ready-to-use GCC cross-compilers, published by the CI | C, GCC, QEMU |
-| [Vida](https://vidapma.fr) | Mobile app for cycle tracking and fertility care. The [Vida.app](https://github.com/Gaetan-PRUVOT-SQS/Vida.app) repository holds the product site, the app code stays private | Site: HTML, CSS, JavaScript |
 
 ## Contact
 
