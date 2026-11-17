@@ -1,29 +1,32 @@
 # Gaetan Pruvot
 
-Développeur freelance basé à Lyon (SigmaQuantSystems). Je conçois des applications web et mobiles fiables, qui fonctionnent hors ligne et gardent les données sous contrôle.
+English · [Français](README.fr.md)
 
-**Disponible pour des missions en full remote**, courtes ou longues.
+Freelance developer based in Lyon (SigmaQuantSystems). I build reliable web
+and mobile applications, ones that work offline and keep data under control.
 
-## Ce que je fais
+**Available for full remote work**, short or long assignments.
 
-- Applications web en React, avec des API Node (Fastify, Express) et PostgreSQL
-- Applications mobiles Android en Kotlin et Jetpack Compose, et en React Native
-- Outils Python pour la donnée et l'automatisation
-- Tests automatisés et intégration continue : tests unitaires, Cypress, Playwright, GitHub Actions
-- Sécurité applicative : authentification, CSRF, cookies, gestion des secrets
+## What I do
 
-## Projets
+- Web applications in React, with Node APIs (Fastify, Express) and PostgreSQL
+- Android mobile apps in Kotlin and Jetpack Compose, and in React Native
+- Python tools for data and automation
+- Automated testing and continuous integration: unit tests, Cypress, Playwright, GitHub Actions
+- Application security: authentication, CSRF, cookies, secrets management
 
-| Projet | Description | Stack |
+## Projects
+
+| Project | Description | Stack |
 |---|---|---|
-| [Taskora](https://github.com/Gaetan-PRUVOT-SQS/Taskora) | Kanban auto-hébergé, avec une CI complète et des tests de bout en bout | React, Fastify, PostgreSQL, Docker |
-| [Kasa](https://github.com/Gaetan-PRUVOT-SQS/Kasa) | Location de logements entre particuliers, en TypeScript strict, avec 100 % de couverture de tests et une CI | React, TypeScript, Express |
-| [github-analytics](https://github.com/Gaetan-PRUVOT-SQS/github-analytics) | Tableau de bord d'activité GitHub, testé contre un faux GitHub local | Next.js |
-| [StayStrong](https://github.com/Gaetan-PRUVOT-SQS/StayStrong) | Application Android native | Kotlin, Jetpack Compose |
-| [MRRM](https://github.com/Gaetan-PRUVOT-SQS/Macro-Risk-Regime-Monitor-MRRM) | Suivi des régimes de risque macroéconomique | Python, pytest |
-| [i686-elf-gcc](https://github.com/Gaetan-PRUVOT-SQS/i686-elf-gcc) | Cross-compilateurs GCC prêts à l'emploi, publiés par la CI | C, GCC, QEMU |
-| [Vida](https://vidapma.fr) | Application mobile de suivi de cycle et de parcours PMA. Le dépôt [Vida.app](https://github.com/Gaetan-PRUVOT-SQS/Vida.app) contient le site vitrine, le code de l'application reste privé | Site : HTML, CSS, JavaScript |
+| [Taskora](https://github.com/Gaetan-PRUVOT-SQS/Taskora) | Self-hosted kanban boards, with a full CI and end-to-end tests | React, Fastify, PostgreSQL, Docker |
+| [Kasa](https://github.com/Gaetan-PRUVOT-SQS/Kasa) | Peer-to-peer housing rental in strict TypeScript, with 100% test coverage and a CI | React, TypeScript, Express |
+| [github-analytics](https://github.com/Gaetan-PRUVOT-SQS/github-analytics) | GitHub activity dashboard, tested against a local fake GitHub | Next.js |
+| [StayStrong](https://github.com/Gaetan-PRUVOT-SQS/StayStrong) | Native Android app | Kotlin, Jetpack Compose |
+| [MRRM](https://github.com/Gaetan-PRUVOT-SQS/Macro-Risk-Regime-Monitor-MRRM) | Macroeconomic risk regime monitoring | Python, pytest |
+| [i686-elf-gcc](https://github.com/Gaetan-PRUVOT-SQS/i686-elf-gcc) | Ready-to-use GCC cross-compilers, published by the CI | C, GCC, QEMU |
+| [Vida](https://vidapma.fr) | Mobile app for cycle tracking and fertility care. The [Vida.app](https://github.com/Gaetan-PRUVOT-SQS/Vida.app) repository holds the product site, the app code stays private | Site: HTML, CSS, JavaScript |
 
 ## Contact
 
-Ouvert aux propositions de mission. Écrivez-moi via [vidapma.fr](https://vidapma.fr) ou sur GitHub.
+Open to freelance work. Write to me through [vidapma.fr](https://vidapma.fr) or on GitHub.
